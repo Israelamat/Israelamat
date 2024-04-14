@@ -15,10 +15,10 @@
 - 📄 Mi CV <a href="https://i.postimg.cc/fTk9hhzP/CV-Israel-Amat.png" target="_blank">https://i.postimg.cc/fTk9hhzP/CV-Israel-Amat.png</a>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/israel-amat-gil/?originalsubdomain=es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/israel-amat-gil/?originalsubdomain=es" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/israelamat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/israelamat" height="30" width="40" /></a>
+<h3 align="centre">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/israel-amat-gil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/israel-amat-gil/?originalsubdomain=es" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/israelamat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/israelamat" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
