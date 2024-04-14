@@ -2,17 +2,18 @@
   <img src="https://i.postimg.cc/cLWjYrYR/ISRAEL-AMAT.jpg" alt="Banner" width="100%">
 </p>
 
-- 🔭 Actualmente estoy [Acabando desarollo de aplicaciones web](https://iessanvicente.com/alu/daw/)
+- 🔭 Actualmente estoy <a href="https://iessanvicente.com/alu/daw/" target="_blank">Acabando desarollo de aplicaciones web</a>
 
 - 🌱 Actualmente estoy aprendiendo **Symfony Angular y ciencia de datos(pandas,scikit-learn,TensorFlow)**
-
-- 👨‍💻 Todos mi proyectos públicos [http://portfolio.isra712.store/](http://portfolio.isra712.store/)
+  
+- 👨‍💻 Todos mi proyectos públicos <a href="http://portfolio.isra712.store/" target="_blank">http://portfolio.isra712.store/</a>
 
 - 💬 Pregúntame sobre **Astro, Express o Django**
 
-- 📫 Mi correo electrónico **israelamatgil@gmail.com**
+- 📫 Mi correo electrónico **israelamatgil@gmail.com** 
 
-- 📄 Mi CV [https://i.postimg.cc/fTk9hhzP/CV-Israel-Amat.png](https://i.postimg.cc/fTk9hhzP/CV-Israel-Amat.png)
+- 📄 Mi CV <a href="https://i.postimg.cc/fTk9hhzP/CV-Israel-Amat.png" target="_blank">https://i.postimg.cc/fTk9hhzP/CV-Israel-Amat.png</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
