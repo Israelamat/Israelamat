@@ -2,7 +2,7 @@
   <img src="https://i.postimg.cc/cLWjYrYR/ISRAEL-AMAT.jpg" alt="Banner" width="100%">
 </p>
 
-- 🔭 Actualmente estoy [Acabando dessarollo de aplicaciones web](https://iessanvicente.com/alu/daw/)
+- 🔭 Actualmente estoy [Acabando desarollo de aplicaciones web](https://iessanvicente.com/alu/daw/)
 
 - 🌱 Actualmente estoy aprendiendo **Symfony Angular y ciencia de datos(pandas,scikit-learn,TensorFlow)**
 
