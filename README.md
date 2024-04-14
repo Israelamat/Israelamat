@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/dQ6MQQrL/ISRAEL-AMAT.png" alt="Banner" width="100%">
+  <img src="https://i.postimg.cc/cLWjYrYR/ISRAEL-AMAT.jpg" alt="Banner" width="100%">
 </p>
 
 - 🔭 Actualmente estoy [Acabando dessarollo de aplicaciones web](https://iessanvicente.com/alu/daw/)
