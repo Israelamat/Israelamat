@@ -2,13 +2,13 @@
   <img src="https://i.postimg.cc/cLWjYrYR/ISRAEL-AMAT.jpg" alt="Banner" width="100%">
 </p>
 
-- 🔭 Actualmente estoy <a href="https://iessanvicente.com/alu/daw/" target="_blank">Acabando desarollo de aplicaciones web</a>
+- 🔭 Actualmente estoy <a href="https://iessanvicente.com/alu/daw/" target="_blank">Acabando desarollo de aplicaciones web y Machine Learning</a>
 
 - 🌱 Actualmente estoy aprendiendo **Symfony Angular y ciencia de datos(pandas,scikit-learn,TensorFlow)**
   
 - 👨‍💻 Todos mi proyectos públicos <a href="http://portfolio.isra712.store/" target="_blank">http://portfolio.isra712.store/</a>
 
-- 💬 Pregúntame sobre **Astro, Express o Django**
+- 💬 Pregúntame sobre **Scikit-learn, Pandas, Matplotlib**
 
 - 📫 Mi correo electrónico **israelamatgil@gmail.com** 
 
