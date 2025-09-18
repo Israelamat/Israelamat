@@ -5,8 +5,6 @@
 - 🔭 Actualmente estoy <a href="https://iessanvicente.com/alu/daw/" target="_blank">Acabando desarollo de aplicaciones web y Machine Learning</a>
 
 - 🌱 Actualmente estoy aprendiendo **Ciencia de datos(Pandas,scikit-learn,TensorFlow)**
-  
-- 👨‍💻 Todos mi proyectos públicos <a href="http://portfolio.isra712.store/" target="_blank">http://portfolio.isra712.store/</a>
 
 - 💬 Pregúntame sobre **Scikit-learn, Pandas, Matplotlib**
 
