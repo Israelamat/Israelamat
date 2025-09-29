@@ -4,6 +4,8 @@
 
 - 🔭 Actualmente estoy <a href="https://iessanvicente.com/alu/daw/" target="_blank">Acabando desarollo de aplicaciones web y Machine Learning</a>
 
+- 💻 Mi portfolio web: <a href="https://portfolio-israel-gamma.vercel.app/" target="_blank">https://portfolio-israel-gamma.vercel.app/</a>
+
 - 🌱 Actualmente estoy aprendiendo **Ciencia de datos(Pandas,scikit-learn,TensorFlow)**
 
 - 💬 Pregúntame sobre **Scikit-learn, Pandas, Matplotlib**
