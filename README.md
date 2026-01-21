@@ -12,7 +12,7 @@
 
 - 📫 Mi correo electrónico **israelamatgil@gmail.com** 
 
-- 📄 Mi CV <a href="https://i.postimg.cc/L6K7FzZ6/CV-Israel-David-enero-2026.png" target="_blank">https://i.postimg.cc/fTk9hhzP/CV-Israel-Amat.png</a>
+- 📄 Mi CV <a href="https://postimg.cc/NLDb124W" target="_blank">Israel Amat Gil CV</a>
 
 
 <h3 align="centre">Connect with me:</h3>
