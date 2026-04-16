@@ -7,7 +7,6 @@
 I am a **Junior Web Developer** and **Data Science Enthusiast** with a focus on building structured, scalable applications.
 
 - 🎓 Graduate in **Web Applications Development** with a specialization in **Machine Learning**.
-- 🛠️ Creator of **[react-isr-cli](https://github.com/tu-usuario/react-isr-cli)**, an opinionated tool for React architecture.
 - 💻 Check out my [Portfolio Website](https://portfolio-israel-gamma.vercel.app/).
 - 🌱 Currently deep-diving into **Data Science** (Pandas, Scikit-learn, TensorFlow).
 - 💬 Ask me about **React, Scikit-learn, or project organization**.
@@ -17,7 +16,6 @@ I am a **Junior Web Developer** and **Data Science Enthusiast** with a focus on 
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=israelamat&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelamat&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
