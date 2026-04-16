@@ -13,7 +13,7 @@ I am a **Junior Web Developer** and **Data Science Enthusiast** with a focus on 
 - 📫 Reach me at: **israelamatgil@gmail.com**
 - 📄 View my [Curriculum Vitae](https://postimg.cc/hzmPCmVL).
 
-### 📊 My GitHub Stats
+### My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelamat&layout=compact&theme=radical" alt="Top Languages" height="150" />
