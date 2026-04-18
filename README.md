@@ -4,7 +4,7 @@
 
 ## Hi there, I'm Israel! 👋
 
-I am a **Junior Web Developer** and **Data Science Enthusiast** with a focus on building structured, scalable applications.
+I am a **Software Developer** and **Data Science Enthusiast** with a focus on building structured, scalable applications.
 
 - 🎓 Graduate in **Web Applications Development** with a specialization in **Machine Learning**.
 - 💻 Check out my [Portfolio Website](https://portfolio-israel-gamma.vercel.app/).
