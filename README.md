@@ -16,7 +16,7 @@ I am a **Software Developer** and **Data Science Enthusiast** with a focus on bu
 ### My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=israelamat&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelamat&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Languages" height="150" />
 </p>
 
 <h3 align="centre">Connect with me:</h3>
